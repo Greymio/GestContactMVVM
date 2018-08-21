@@ -1,0 +1,10 @@
+﻿<Application x:Class="GestContactMVVM.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:GestContactMVVM.ViewModel"
+             xmlns:local="clr-namespace:GestContactMVVM"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <vm:MainViewModel x:Key="Toto" />
+    </Application.Resources>
+</Application>

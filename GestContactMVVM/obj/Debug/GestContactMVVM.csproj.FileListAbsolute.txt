@@ -1,0 +1,85 @@
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.exe.config
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.exe
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.pdb
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\obj\Debug\MainWindow.g.cs
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\obj\Debug\App.g.cs
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM_MarkupCompile.cache
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM_MarkupCompile.lref
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\obj\Debug\App.baml
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\obj\Debug\MainWindow.baml
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.g.resources
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.Properties.Resources.resources
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.csproj.GenerateResource.Cache
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.exe
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.pdb
+c:\users\thierry\documents\visual studio 2015\Projects\GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.csprojResolveAssemblyReference.cache
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.exe.config
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.exe
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.pdb
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.exe.config
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.exe
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.pdb
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.csprojResolveAssemblyReference.cache
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\MainWindow.g.cs
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\App.g.cs
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM_MarkupCompile.cache
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM_MarkupCompile.lref
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\App.baml
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\MainWindow.baml
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.g.resources
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.Properties.Resources.resources
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.csproj.GenerateResource.Cache
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.exe
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.pdb
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.exe.config
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.exe
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.pdb
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.exe
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.pdb
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.csprojResolveAssemblyReference.cache
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\MainWindow.g.cs
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\App.g.cs
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM_MarkupCompile.cache
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM_MarkupCompile.lref
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\App.baml
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\MainWindow.baml
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.g.resources
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.Properties.Resources.resources
+D:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.csproj.GenerateResource.Cache
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.exe.config
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.exe
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.pdb
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.csprojAssemblyReference.cache
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\MainWindow.g.cs
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\App.g.cs
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM_MarkupCompile.cache
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM_MarkupCompile.lref
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\App.baml
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\MainWindow.baml
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.g.resources
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.Properties.Resources.resources
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.csproj.GenerateResource.cache
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.csproj.CoreCompileInputs.cache
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.exe
+C:\sandbox\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.pdb
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.exe.config
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.exe
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\bin\Debug\GestContactMVVM.pdb
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.csprojAssemblyReference.cache
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\obj\Debug\App.g.cs
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM_MarkupCompile.cache
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM_MarkupCompile.lref
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\obj\Debug\App.baml
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\obj\Debug\MainWindow.baml
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.g.resources
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.Properties.Resources.resources
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.csproj.GenerateResource.cache
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.csproj.CoreCompileInputs.cache
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.exe
+C:\Users\laure\Documents\Projets\Projets\25 GestContactMVVM\GestContactMVVM\obj\Debug\GestContactMVVM.pdb
